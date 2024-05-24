@@ -1,5 +1,5 @@
 {
-  "name": "react-router-simplify",
+  "name": "@ghost_/react-router-simplify",
   "version": "0.0.1",
   "description": "Un react router simplifier",
   "type": "module",
