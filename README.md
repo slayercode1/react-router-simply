@@ -5,7 +5,7 @@ Ce package a pour objectif de simplifier l'utilisation du routeur au sein de Rea
 ## Installation
 
 ```bash
-  npm insatll @slayercode1/react-router-simplify@0.0.1
+  npm i @ghost_/react-router-simplify
 ```
 
 ## Usage
